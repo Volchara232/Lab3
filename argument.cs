@@ -1,6 +1,6 @@
 namespace Models
 {
-    class Argument
+    private class Argument
     {
      int x;
      int y;
